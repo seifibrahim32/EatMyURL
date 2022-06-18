@@ -1,16 +1,4 @@
-# eat_my_url
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Desktop Version (beta version) --unmerged /non-PR done yet. 
+[x] Screenshots :
+![cc](https://user-images.githubusercontent.com/58334300/174417651-f7a3621e-6779-4243-805e-f58eb30215c4.PNG)
+![Screenshot (20)](https://user-images.githubusercontent.com/58334300/174417796-22cb9205-a416-4f64-a095-34a2b2b8fe34.png)
